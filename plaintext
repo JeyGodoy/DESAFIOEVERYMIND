@@ -1,0 +1,20 @@
+/backend
+|-- app
+|   |-- __init__.py
+|   |-- models.py
+|   |-- routes.py
+|-- config.py
+|-- run.py
+|-- venv (diretório do ambiente virtual)
+
+/frontend
+|-- src
+|   |-- components
+|       |-- ProductList.vue
+|       |-- ProductForm.vue
+|       |-- ...
+|   |-- App.vue
+|   |-- main.js
+|-- public
+|   |-- index.html
+|-- ...
